@@ -1,0 +1,9 @@
+{
+    "id": "minelord",
+    "version": "0.1.1",
+    "authors": ["Shnupbups"],
+    "name": "Minelord",
+    "description": "Minecraft inspired symbols",
+    "dependencies": [],
+    "load-after": ["valgos-content-pack"]
+}
